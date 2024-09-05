@@ -8,10 +8,4 @@ We are given three CSV files that contain information about the same companies, 
 
 The objective is to create a fourth dataset that includes all the information from the three datasets mentioned above, with greater accuracy in each column.
 
-I will approach this problem by following some steps:
-
-- read the datasets
-- preprocess datasets to convert all values to a basic format
-- explore the data and understand what columns are important for the merge
-- join the datasets
-- evaluate the method used
+For a more in-depth explanation of the process and evaluation of the results, please refer to the following [Notion site](https://spiral-dew-f67.notion.site/Datasets-Join-Challenge-a6f7c930871b49afb9d34a23d1ac0d6e).
